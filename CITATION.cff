@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite this repository and the original Food-101 paper."
+title: "EatHalf AI: Food Image Recognition for Dietary Tracking"
+authors:
+  - family-names: Babayemi
+    given-names: Oludotun
+version: 0.1.0
+license: AGPL-3.0
+repository-code: "https://github.com/dutchy313/eathalf-food-recognition"

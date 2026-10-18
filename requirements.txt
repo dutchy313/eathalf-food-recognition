@@ -1,0 +1,2 @@
+# Proposed compatibility ranges, not a reproduced lockfile. Use Python 3.11.
+-e .[notebook,dev]

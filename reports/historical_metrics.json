@@ -1,0 +1,16 @@
+{
+  "status": "historical_unreplicated",
+  "source": "EatHalf_AI_.ipynb saved outputs, cells 180, 184, 186",
+  "scope": "whole-image classification; custom 17-class test split",
+  "model": "EfficientNetB0",
+  "dataset_images": 16256,
+  "classes": 17,
+  "test_n": 2439,
+  "correct": 2048,
+  "incorrect": 391,
+  "accuracy_rounded": 0.8397,
+  "weighted_precision_rounded": 0.8399,
+  "weighted_recall_rounded": 0.8397,
+  "weighted_f1_rounded": 0.8384,
+  "corrected_workflow_rerun": false
+}

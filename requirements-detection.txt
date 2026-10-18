@@ -1,0 +1,2 @@
+# Optional YOLO exploration; review THIRD_PARTY_NOTICES.md before product use.
+-e .[detection]
